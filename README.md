@@ -10,12 +10,12 @@ Built with the tools and technologies:
 Markdown Python
 
 Table of Contents:-
-Overview
-Getting Started
-Prerequisites
-Installation
-Usage
-Testing
+Overview,
+Getting Started,
+Prerequisites,
+Installation,
+Usage,
+Testing,
 Overview
 
 Expense-Tracker is a powerful desktop application that enables users to efficiently manage, analyze, and visualize their expenses. Built with Python, it combines data storage, graphical reporting, and seamless UPI payment integration into a cohesive experience.
